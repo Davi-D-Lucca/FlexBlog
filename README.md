@@ -1,3 +1,3 @@
 # FlexBlog
 
-Projeo feito inteiramente responsivo mostrando as proprieades do Flexbox
+Projeto feito inteiramente responsivo mostrando as proprieades do Flexbox
